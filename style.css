@@ -5,10 +5,25 @@ body {
     text-align: center;
 }
 
+.img0 {
+
+}
 .img1 {
     position: center;
 }
 
 .img2 {
     position: center;
+}
+
+.footer {
+    font-size: 8pt;
+}
+
+p {
+    line-height: 0px;
+}
+
+.copyright {
+    font-size: 5pt
 }
